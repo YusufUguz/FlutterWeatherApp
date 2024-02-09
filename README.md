@@ -14,11 +14,11 @@ Technologies:<br />
 :pushpin: Fetch data from API ([OpenWeatherMap](https://openweathermap.org/api))<br />
 :pushpin: geolocation<br />
 
-![alt text](./appVideo.mp4)<br />
+![Video of App](./appVideo.gif)<br />
 Home Screen<br />
-![HomeScreen](./HomeScreen.png)<br/>
+![Home Screen](./HomeScreen.png)<br/>
 Search Other Cities Screen <br />
-![SearchOtherCities](./SearchOtherCities.png)<br/>
+![Search Other Cities](./SearchOtherCities.png)<br/>
 
 This project created by [YusufUguz](https://github.com/YusufUguz)<br />
 
